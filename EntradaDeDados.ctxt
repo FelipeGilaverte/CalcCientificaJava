@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EntradaDeDados
+comment1.params=
+comment1.target=java.lang.String[]\ ScannerEntrada()
+comment2.params=
+comment2.target=java.lang.String\ Continue()
+comment3.params=
+comment3.target=void\ graf()
+numComments=4
